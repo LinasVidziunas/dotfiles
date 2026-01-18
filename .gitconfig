@@ -1,5 +1,5 @@
-# This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
-	name = Linas Vidziunas
 	email = linasvidz@gmail.com
+	name = Linas Vidziunas
+[credential]
+	helper = store
